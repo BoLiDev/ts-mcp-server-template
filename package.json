@@ -1,5 +1,5 @@
 {
-  "name": "qrcode-auth-server",
+  "name": "ts-mcp-server-template",
   "version": "1.0.0",
   "description": "TypeScript template project with ESLint 9, Husky, Commitlint, and Prettier",
   "type": "module",
